@@ -1,5 +1,5 @@
 # AIEDLLM_Workshop
-This repo consists of Google Colab notebooks for performing summarization, themetic analysis (aka topic modeling), k-means clustering, and visualizaion for the AIED LLM workshop.
+This reposistory consists of Google Colab notebooks for performing summarization, themetic analysis (aka topic modeling), k-means clustering, and visualizaion for the AIED LLM workshop.
 
 ## EduClubFeedbackSummarization.ipynb
 Used a pre-trained BART from Hugging Face to perform summarization of written feedback.
